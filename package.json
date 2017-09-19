@@ -1,0 +1,11 @@
+{
+    "name": "cordova-plugin-acs-sms",
+    "version": "1.0.0",
+    "cordova": {
+        "id": "cordova-plugin-acs-sms",
+        "platforms": [
+            "android"
+        ]
+    },
+    "description": "A plugin to read incoming sms content for Android"
+}
